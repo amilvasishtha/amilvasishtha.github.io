@@ -6,20 +6,17 @@
         port: Number(process.argv[2] || 8080)
     });
 
-// Routes are added via the route function:
+    server.route({
+        method: 'GET',
+        path: '/',
+        handler: function (request, reply) {
+            reply('World');
+        }
+    });
 
-    server.route({path: '/', method:'GET', handler: ''});
+    server.start();
+//Add a route handler similar to the following:
 
-// Handlers can be anonymous functions or separately declared (just like in javascript :P), but all of them should have this signature:
-
-    function handler(request, reply) {
-
-        //request has all information
-        //reply handles client response
-
-        reply({mustFlow:true});
+    function handler (request, reply) {
+        reply('Hello ' + request.params);
     }
-
-// Calling the start function gets a server listening on the assigned port:
-
-	server.start();
