@@ -5,5 +5,4 @@ permalink: /contact/
 nav: main
 ---
 
-
-We'd love to hear from you. Drop us a line below!
+Want to get in touch? Feel free to drop me a line below
