@@ -1,0 +1,246 @@
+---
+---
+
+/*Styling for sticky footer*/
+
+html, body {height: 100%;}
+
+#sticky-wrap {min-height: 100%;}
+
+#sticky-body {
+  min-height: 100%;
+  overflow:auto;
+  padding-bottom: 75px; /* must be same height as the footer */
+  /*Top padding to bring content out from under fixed nav*/
+  padding-top: 50px; //was 50px!
+}
+
+#sticky-body-home {
+  min-height: 100%;
+  overflow:auto;
+  padding-bottom: 75px; /* must be same height as the footer */
+}
+
+#sticky-footer {
+  position: relative;
+  margin-top: -75px; /* negative value of footer height */
+  height: 75px;
+  clear:both;
+}
+
+/*global links styles*/
+
+a {
+  color: #5a5a5a;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.page-link {
+  color: #5a5a5a;
+}
+
+.page-link:hover {
+  color:orange;
+}
+
+.page-link:active {
+  color: orange;
+}
+
+a.darken {
+    /*display: inline-block;*/
+    background: black;
+    padding: 0;
+    width: 300px;
+    border-radius: 304px;
+}
+
+a.darken img {
+    /*display: block;*/
+
+    -webkit-transition: all 0.25s linear;
+       -moz-transition: all 0.25s linear;
+        -ms-transition: all 0.25s linear;
+         -o-transition: all 0.25s linear;
+            transition: all 0.25s linear;
+}
+
+a.darken:hover img {
+    opacity: 0.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+  background-image: url('/media/brushed.png')
+
+}
+
+.centerMe {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+#banner {
+  text-align: center;
+  font-size: 6em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+}
+
+#landing-image {
+  // margin-top: 10px;
+}
+
+#logo {
+  padding-top: 50px;
+}
+
+.text {
+  font-size: 1.5em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  max-width: 80%;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#intro {
+  max-width: 100%;
+  font-size: 2em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+#profile-gallery {
+  padding-top: 30px;
+}
+
+
+.profilepic {
+  width: 300px;
+  border-radius: 304px;
+  border: 4px white solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.thumbnail {
+  background-color: transparent;
+  border: none;
+}
+
+.site-header {
+  background-color: rgba(150,150,255,0.1);
+}
+
+.site-footer {
+  text-align: center;
+}
+
+
+/*Main page section colours*/
+
+#section2 {
+  background-color: rgba(73,93,130,0.7);
+}
+
+#section3 {
+  background-color: rgba(68,75,87,0.7);
+}
+
+/**/
+/*landing page banner*/
+/**/
+
+#landing-div {
+  position: relative;
+  overflow: hidden;
+}
+
+.landing-area{
+  float: left;
+}
+
+#logo {
+  z-index: 100;
+  position: absolute;
+  top: 12%;
+  left: 6%;
+  /*right: 50%;*/
+  bottom: 0;
+  overflow: hidden;
+}
+
+#arrow {
+  z-index:100;
+  position: absolute;
+  top: 75%;
+  left: 44%;
+  right: 0;
+  bottom: 50%;
+  overflow: hidden;
+}
+
+
+.landing-area a {
+  color: white;
+}
+
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.nav {
+  font-family: Consolas;
+  font-weight: bold;
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+
+.titles {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+
