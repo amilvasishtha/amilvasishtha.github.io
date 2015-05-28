@@ -12,7 +12,6 @@ html, body {height: 100%;}
   overflow:auto;
   padding-bottom: 75px; /* must be same height as the footer */
   /*Top padding to bring content out from under fixed nav*/
-  padding-top: 50px; //was 50px!
 }
 
 #sticky-body-home {
@@ -218,6 +217,7 @@ body {
   right: 0;
   bottom: 50%;
   overflow: hidden;
+  padding-bottom: 40px;
 }
 
 
@@ -225,10 +225,6 @@ body {
   color: white;
 }
 
-
-.navbar {
-  margin-bottom: 0;
-}
 
 .nav {
   font-family: Consolas;
