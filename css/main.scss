@@ -213,12 +213,12 @@ body {
 #arrow {
   z-index:100;
   position: absolute;
-  top: 65%;
+  top: 55%;
   left: 44%;
   right: 0;
   bottom: 50%;
   overflow: hidden;
-  padding-bottom: 40px;
+  padding-bottom: 70px;
 }
 
 
@@ -235,7 +235,7 @@ body {
   top: 0px;
 }
 
-.nav:hover {
+.navbar-header:hover {
   color: white;
 }
 
