@@ -385,8 +385,8 @@ body {
     margin-right: auto;
 }
 
-.fa.fa-envelope {
-   font-size: 120px;
+#envelope {
+   font-size: 80px;
     background-color: #FF8C00;
     color:#FF8C00;
 }
