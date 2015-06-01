@@ -46,7 +46,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #FF8C00;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -55,7 +55,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: #CC7000;
 }
 
 .light {
@@ -388,4 +388,6 @@ body {
 .fa.fa-envelope {
     height: 110px;
     width: 110px;
+    background-color: #FF8C00;
+    color:#FF8C00;
 }
