@@ -390,7 +390,7 @@ body {
     color:#FF8C00;
 }
 
-.other {
+#other {
     display: table;
     width: 100%;
     height: auto;
