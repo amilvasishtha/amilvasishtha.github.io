@@ -372,3 +372,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+#profile-gallery {
+  padding-top: 30px;
+  max-height: 70px;
+  max-width: 70px;
+}
