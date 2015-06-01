@@ -374,7 +374,7 @@ body {
 }
 
 #profile-gallery {
-  padding-top: 30px;
-  max-height: 70px;
-  max-width: 70px;
+  padding: 30px;
+  max-height: 200px;
+  max-width: 200px;
 }
