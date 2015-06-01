@@ -386,7 +386,10 @@ body {
 }
 
 .fa.fa-envelope-o {
-    font-size: 60px;
     background-color: #FF8C00;
     color:#FF8C00;
+}
+
+.fa {
+    font-size: 40px;
 }
