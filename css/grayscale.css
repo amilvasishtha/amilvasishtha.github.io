@@ -386,8 +386,7 @@ body {
 }
 
 .fa.fa-envelope {
-    height: 180px;
-    width: 180px;
+   font-size: 120px;
     background-color: #FF8C00;
     color:#FF8C00;
 }
