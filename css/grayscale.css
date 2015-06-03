@@ -405,12 +405,8 @@ body {
     -o-background-size: cover;
 }
 
-.list-inline.banner-social-buttons {
+#socialmediaicons.li.a {
     color: #AFEEEE;
 }
 
-.list-inline.banner-social-buttonsa:hover,
-a:focus {
-    color: #fff;
-}
 
