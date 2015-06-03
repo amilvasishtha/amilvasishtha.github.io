@@ -413,7 +413,7 @@ body {
     background-color: #FF6347 !important;
 }
 
-#interests-section {
+.interests-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
