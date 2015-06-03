@@ -409,6 +409,7 @@ body {
     color: #AFEEEE;
 }
 
-a.hover: 
-
+#socialmediaicons:hover {
+    background-color: #FF6347;
+}
 
