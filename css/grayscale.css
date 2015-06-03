@@ -404,3 +404,13 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.list-inline.banner-social-buttons {
+    color: #AFEEEE;
+}
+
+.list-inline.banner-social-buttonsa:hover,
+a:focus {
+    color: #fff;
+}
+
