@@ -410,6 +410,6 @@ body {
 }
 
 #socialmediaicons:hover {
-    background-color: #FF6347;
+    background-color: #FF6347 !important;
 }
 
