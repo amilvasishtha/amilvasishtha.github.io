@@ -261,7 +261,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.profile-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -284,14 +284,10 @@ a:focus {
 /*        padding-bottom: 20px;*/
     }
 
-/*    .download-section {
-        padding-top: 100px;
-    }*/
 
-    #map {
-        height: 400px;
-        margin-top: 250px;
-    }
+#map {
+    height: 400px;
+    margin-top: 250px;
 }
 
 .btn {
