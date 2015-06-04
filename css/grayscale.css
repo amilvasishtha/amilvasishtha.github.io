@@ -368,7 +368,7 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-#profile-gallery {
+#profile-gallery, #projects-gallery {
     max-height: 250px;
     max-width: 250px;
     width: 300px;
