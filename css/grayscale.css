@@ -434,6 +434,18 @@ body {
     margin-right: auto;
 }
 
-#projects-row {
+#projects-row, #interests-row {
     width: 100%;
 }
+
+#interests-gallery {
+    max-height: 100px;
+    max-width: 100px;
+    width: 200px;
+    border-radius: 304px;
+    border: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
