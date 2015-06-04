@@ -368,7 +368,7 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-#profile-gallery, #projects-gallery {
+#profile-gallery {
     max-height: 250px;
     max-width: 250px;
     width: 300px;
@@ -421,4 +421,15 @@ body {
 
 #footer-text {
     color: #fff;
+}
+
+#projects-gallery {
+    max-height: 220px;
+    max-width: 220px;
+    width: 280px;
+    border-radius: 304px;
+    border: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
