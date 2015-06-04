@@ -433,3 +433,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+#projects-row {
+    width: 100%;
+}
