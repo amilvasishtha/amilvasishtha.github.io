@@ -301,7 +301,8 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #AFEEEE;
+    border: 2px solid #AFEEEE;
+    font-weight:bold;
     color: ##FF6347;
     background-color: transparent;
 }
