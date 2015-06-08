@@ -122,9 +122,8 @@ a:focus {
     color: #fff;
 }
 
-@media(min-width:320px) {
+@media(min-width:768px) {
     .navbar-custom {
-        max-wdith:1200px;
         padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
