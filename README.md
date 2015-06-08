@@ -1,26 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [Amil Vasishtha](http://amilvasishtha.github.io/)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+## How did I create it?
 
-## Getting Started
+I decided to use the Bootstrap template [Grayscale] (http://startbootstrap.com/template-overviews/grayscale/) as the starting base for my page.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+I really wanted to create a single page site with a variety of sections which could either be scrolled to or jumped to from the navbar.
 
-## Bugs and Issues
+So far, I am happy with how it's turned out.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+## Why did I create it?
 
-## Creator
+I wanted to create a page where I could showcase some of my abilities and experiment with some more design.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+I also want to add some additional features aka it's a work in progress!
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## What issues am I facing?
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Currently struggling with the responsiveness.
 
-## Copyright and License
+## Feedback
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+If you have any feedback or comments just visit my page and you can email me from there. Thanks!
