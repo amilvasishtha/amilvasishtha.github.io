@@ -279,7 +279,7 @@ a:focus {
     margin-top: 100px;
 }
 
-@media(min-width:767px) {
+@media(min-width:768px) {
     .content-section {
 /*        padding-bottom: 20px;*/
     }
@@ -319,7 +319,7 @@ ul.banner-social-buttons {
     margin-top: 0;
 }
 
-@media(max-width:1199px) {
+@media(max-width:768px) {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
