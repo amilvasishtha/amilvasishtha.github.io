@@ -1,4 +1,4 @@
-# [Amil Vasishtha](http://amilvasishtha.github.io/
+# [Amil Vasishtha](http://amilvasishtha.github.io/)
 
 ## How did I create it?
 
