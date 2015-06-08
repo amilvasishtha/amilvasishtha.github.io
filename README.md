@@ -4,13 +4,15 @@
 
 I decided to use the Bootstrap template [Grayscale] (http://startbootstrap.com/template-overviews/grayscale/) as the starting base for my page.
 
-I am happy with how it's turned out. I really wanted a single page site with a variety of sections.
+I really wanted to create a single page site with a variety of sections which could either be scrolled to or jumped to from the navbar.
+
+So far, I am happy with how it's turned out.
 
 ## Why did I create it?
 
-I wanted to create a page where I could showcase some of my abilities and experiment with some design.
+I wanted to create a page where I could showcase some of my abilities and experiment with some more design.
 
-It's still a work in progress!
+I also want to add some additional features aka it's a work in progress!
 
 ## What issues am I facing?
 
