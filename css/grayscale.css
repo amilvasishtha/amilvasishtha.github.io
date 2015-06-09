@@ -450,3 +450,16 @@ body {
     margin-right: auto;
 }
 
+
+@media (min-width: 300px) {
+#profile-gallery {
+  max-height: 250px;
+  max-width: 250px;
+  width: 300px;
+  border-radius: 304px;
+  border: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
