@@ -32,9 +32,11 @@ h6 {
 
 p {
     margin: 0 0 25px;
-    font-size: 16px;
     line-height: 1.5;
-    font-family: Arial;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: #fff;
 }
 
 @media(min-width:320px) {
