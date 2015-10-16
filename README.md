@@ -1,23 +1,26 @@
-# [Amil Vasishtha](http://amilvasishtha.github.io/)
+# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-## How did I create it?
+[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-I decided to use the Bootstrap template [Grayscale] (http://startbootstrap.com/template-overviews/grayscale/) as the starting base for my page.
+## Getting Started
 
-I really wanted to create a single page site with a variety of sections which could either be scrolled to or jumped to from the navbar.
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-So far, I am happy with how it's turned out.
+## Bugs and Issues
 
-## Why did I create it?
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
 
-I wanted to create a page where I could showcase some of my abilities and experiment with some more design.
+## Creator
 
-I also want to add some additional features aka it's a work in progress!
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-## What issues am I facing?
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-Currently struggling with the responsiveness.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Feedback
+## Copyright and License
 
-If you have any feedback or comments just visit my page and you can email me from there. Thanks!
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
