@@ -41,8 +41,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 
 .intro-message > h1 {
@@ -167,4 +167,38 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+
+
+
+
+/* Portfolio */
+
+.portfolio {
+    padding: 50px 0;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.img-portfolio {
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+}
+
+.img-portfolio:hover {
+    opacity: 0.8;
+}
+
+
+/*Profile Picture */
+
+.profile-picture{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    overflow:hidden;
 }
